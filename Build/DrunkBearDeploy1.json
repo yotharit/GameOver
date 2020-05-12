@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DrunkBearSimulator",
+"productVersion": "1.0",
+"dataUrl": "DrunkBearDeploy1.data.unityweb",
+"wasmCodeUrl": "DrunkBearDeploy1.wasm.code.unityweb",
+"wasmFrameworkUrl": "DrunkBearDeploy1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
